@@ -1,0 +1,16 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "simple local proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bootProxy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "proxy": "bootProxy.js"
+  },
+  "keywords": [],
+  "author": "ukiuni",
+  "license": "Apache-2.0",
+}
