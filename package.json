@@ -1,5 +1,5 @@
 {
-  "name": "node-proxy",
+  "name": "node-local-proxy",
   "version": "1.0.0",
   "description": "simple local proxy",
   "main": "index.js",
